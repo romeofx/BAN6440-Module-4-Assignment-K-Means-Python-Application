@@ -1,7 +1,7 @@
 # K-Means Clustering Application  
 
 ## Overview  
-This project implements a Python-based K-Means clustering application to analyze and uncover patterns in customer review data. The goal is to organize reviews based on their helpfulness scores, providing actionable insights to enhance business strategies.  
+This Assignment implements a Python-based K-Means clustering application to analyze and uncover patterns in customer review data. The goal is to organize reviews based on their helpfulness scores, providing actionable insights to enhance business strategies.  
 
 ## Features  
 - **Data Preprocessing**: Handles missing values, standardizes numerical data, and prepares it for clustering.  
