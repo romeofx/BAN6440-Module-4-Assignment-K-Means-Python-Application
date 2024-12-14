@@ -12,6 +12,7 @@ This project implements a Python-based K-Means clustering application to analyze
 ## Dataset  
 - **Source**: AWS Open Data Registry  
 - **File**: `train.json`  
+- **URL**: [train.json dataset from AWS Open Data Registry](https://s3.amazonaws.com/helpful-sentences-from-reviews/train.json)  
 - **Columns**:  
   - `asin`: Product identifier.  
   - `sentence`: Review text.  
@@ -22,5 +23,6 @@ This project implements a Python-based K-Means clustering application to analyze
 ## Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/k-means-clustering.git
+   git clone https://github.com/romeofx/k-means-clustering.git
    cd k-means-clustering
+
